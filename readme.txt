@@ -1,3 +1,6 @@
+***THIS NO LONGER WORKS.***
+
+
 This is a Google library called 'xgoogle'. Current version is 1.3.
 
 It's written by Peteris Krumins (peter@catonmat.net).
